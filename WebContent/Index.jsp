@@ -11,6 +11,7 @@
 	<ul>
 		<li>git init-로컬저장소 생성</li>
 		<li>git config-git 환경 설정</li>
+		<li>나도 li 추가</li>
 	</ul>
 </body>
 </html>
