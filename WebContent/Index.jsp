@@ -8,5 +8,9 @@
 </head>
 <body>
 	<h2>GIT 수업</h2>
+	<ul>
+		<li>git init-로컬저장소 생성</li>
+		<li>git config-git 환경 설정</li>
+	</ul>
 </body>
 </html>
